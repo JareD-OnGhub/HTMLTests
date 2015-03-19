@@ -1,3 +1,4 @@
 # HTMLTests
-My slow learning of HTML
-Slowly. Ack.
+My slow learning of HTML.
+
+Ack.
